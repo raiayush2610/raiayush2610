@@ -20,7 +20,7 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
         alt="aryan_codex"
         height="30"
         width="40"/></a>
-        <a href="https://leetcode.com/ayushrai26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@swetankpathak" height="30" width="40" /></a>
+       
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -95,6 +95,6 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 </p>
 <p align="left">
     <img
-        src="https://komarev.com/ghpvc/?username=codex-06&label=Profile%20views&color=0e75b6&style=flat"
+        src="https://komarev.com/ghpvc/?username=raiayush2610-06&label=Profile%20views&color=0e75b6&style=flat"
         alt="codex-06"/>
 </p>
