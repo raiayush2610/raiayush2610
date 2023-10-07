@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **DSA and Salefore** - 💬 Ask me about **React,
+- 🌱 I’m currently learning **DSA and Salefore** - 💬 Ask me about **React,</br>
 Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
