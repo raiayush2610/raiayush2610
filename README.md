@@ -111,11 +111,7 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 ### GitHub Stats
 <p align= "center"><a href = "https://github.com/raiayush2610"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiayush2610&theme=dark" alt="mshubham0403" /></a></p>
 
-<p align="left">
-    <img
-        src="https://komarev.com/ghpvc/?username=raiayush2610-06&label=Profile%20views&color=0e75b6&style=flat"
-        alt="codex-06"/>
-</p>
+
 ### Top Languages
 
 <p align="center">
