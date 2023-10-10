@@ -94,7 +94,7 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
    
 </p>
 ### GitHub Stats
-<p align= "center"><a href = "https://github.com/mshubham0403"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshubham0403&theme=dark" alt="mshubham0403" /></a></p>
+<p align= "center"><a href = "https://github.com/raiayush2610"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshubham0403&theme=dark" alt="mshubham0403" /></a></p>
 
 <p align="left">
     <img
