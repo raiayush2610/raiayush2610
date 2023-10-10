@@ -94,7 +94,7 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
         <img height="40" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="Postman">
     </a>
-    ###<code></code>
+
    
 </p>
 ### GitHub Stats
