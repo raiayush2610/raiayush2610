@@ -93,6 +93,9 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
     </a>
    
 </p>
+### GitHub Stats
+<p align= "center"><a href = "https://github.com/mshubham0403"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshubham0403&theme=dark" alt="mshubham0403" /></a></p>
+
 <p align="left">
     <img
         src="https://komarev.com/ghpvc/?username=raiayush2610-06&label=Profile%20views&color=0e75b6&style=flat"
