@@ -40,11 +40,7 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
             height="40"/>
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express"
-            width="40"
-            height="40"/>
+       <code><img height="40" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express"></code>
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
