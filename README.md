@@ -42,6 +42,9 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
        <code><img height="40" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express"></code>
     </a>
+    <a hreaf="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
+        <img height="40" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="MaterialUI">
+    </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
