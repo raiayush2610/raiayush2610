@@ -22,6 +22,18 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
         width="40"/></a>
        
 </p>
+<em>
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m a Computer Science Engineering Student at Vellore Institute of Technology,Bhopal ;
+- 💼 I’ve completed my High school with PCM at [Delhi Public school,Kanpur]((https://www.dpskalyanpur.com/));
+- 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏,  etc..;
+- 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
+- 💬 Ask me about anything, I am happy to help;
+
+<br/> 
+</em>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
