@@ -116,3 +116,10 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
         src="https://komarev.com/ghpvc/?username=raiayush2610-06&label=Profile%20views&color=0e75b6&style=flat"
         alt="codex-06"/>
 </p>
+### Top Languages
+
+<p align="center">
+<a href = "https://github.com/raiayush2610">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiayush2610&layout=compact&theme=vision-friendly-dark"/>
+</a>
+</p>
