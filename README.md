@@ -35,7 +35,7 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 <br/> 
 </em>
 <br/>
-br>-MY LEETCODE<br>![Leetcode Stats](https://leetcard.jacoblin.cool/ayushrai26?ext=contest&theme=unicorn)<br>
+br>-MY LEETCODE<br>![Leetcode Stats](https://leetcard.jacoblin.cool/ayushrai26?text=contest&theme=unicorn)<br>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
