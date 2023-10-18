@@ -1,40 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **DSA and Salefore** - 💬 Ask me about **React,</br>
-Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a
-        href="https://www.linkedin.com/in/ayushrai26/"
-        target="blank"><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="https://www.linkedin.com/in/ayushrai26/"
-        height="30"
-        width="40"/></a>
-    <a href="https://leetcode.com/ayushrai26/" target="blank"><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-        alt="aryan_codex"
-        height="30"
-        width="40"/></a>
-       
-</p>
-<em>
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m a Computer Science Engineering Student at Vellore Institute of Technology,Bhopal ;
-- 💼 I’ve completed my High school with PCM at [Delhi Public school,Kanpur]((https://www.dpskalyanpur.com/));
-- 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏,  etc..;
-- 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
-- 💬 Ask me about anything, I am happy to help;
-
-<br/> 
-</em>
-<br/>
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
