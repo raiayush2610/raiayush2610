@@ -197,8 +197,7 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 
    
 </p>
-### GitHub Stats
-<p align= "center"><a href = "https://github.com/raiayush2610"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiayush2610&theme=dark" alt="raiayush2610" /></a></p>
+
 <br/>
 ### GitHub Stats
 <p align= "center"><a href = "https://github.com/raiayush2610"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiayush2610&theme=dark" alt="raiayush2610" /></a></p>
