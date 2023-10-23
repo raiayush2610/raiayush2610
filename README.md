@@ -120,12 +120,6 @@ https://leetcard.jacoblin.cool/ayushrai26?theme=dark&font=Akaya%20Kanadaka&ext=a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiayush2610&layout=compact&theme=vision-friendly-dark"/>
 </a>
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=raiayush2610&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-<br/>
-
-
 <br/>
 ### GitHub Stats
 <p align= "center"><a href = "https://github.com/raiayush2610"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiayush2610&theme=dark" alt="raiayush2610" /></a></p>
