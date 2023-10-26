@@ -35,9 +35,8 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 
 <br/> 
 </em>
-<br/>
-[[https://leetcard.jacoblin.cool/ayushrai26?theme=dark&font=Akaya%20Kanadaka&ext=activity](https://leetcard.jacoblin.cool/ayushrai26?theme=dark&font=Akaya%20Kanadaka)](https://leetcard.jacoblin.cool/ayushrai26?theme=dark&font=Akaya%20Kanadaka&)
-<br/>
+(https://leetcard.jacoblin.cool/ayushrai26?theme=dark&font=Akaya%20Kanadaka
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
