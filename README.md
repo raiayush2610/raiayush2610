@@ -15,7 +15,7 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
         alt="https://www.linkedin.com/in/ayushrai26/"
         height="30"
         width="40"/></a>
-    <a href="https://leetcode.com/ayushrai26/" target="blank"><img
+    <a href="https://leetcode.com/raiayush2610/" target="blank"><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
         alt="aryan_codex"
@@ -35,7 +35,7 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 
 <br/> 
 </em>
-(https://leetcard.jacoblin.cool/ayushrai26?theme=dark&font=Akaya%20Kanadaka
+(https://leetcard.jacoblin.cool/[ayushrai26](https://leetcode.com/raiayush2610/)?theme=dark&font=Akaya%20Kanadaka
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
