@@ -35,7 +35,7 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 
 <br/> 
 </em>
-(https://leetcard.jacoblin.cool/[ayushrai26](https://leetcode.com/raiayush2610/)?theme=dark&font=Akaya%20Kanadaka
+https://leetcard.jacoblin.cool/raiayush2610/?theme=light&font=Hahmlet
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
