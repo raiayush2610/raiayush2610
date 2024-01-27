@@ -35,7 +35,6 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 
 <br/> 
 </em>
-[Playground: Try It Now](https://leetcard.jacoblin.cool/)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/raiayush2610?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/raiayush2610?theme=unicorn&extension=activity)
 
