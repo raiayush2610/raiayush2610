@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Wed Developer from  Varanasi in India</h3>
 
-- 🌱 I’m currently learning **DSA and Salefore** - 💬 Ask me about **React,</br>
+- 🌱 I’m currently learning ** Kubernates and Docker** - 💬 Ask me about **React,</br>
 Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
