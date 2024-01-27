@@ -97,7 +97,7 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
-            src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs"
             width="40"
             height="40"/>
