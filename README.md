@@ -119,10 +119,10 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img
-            src="https://www.google.com/imgres?imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F5429470%3Fs%3D280%26v%3D4&tbnid=DRN0cbPTjnxFzM&vet=12ahUKEwiT9OTp8PyDAxWctGMGHWfUCWUQMygCegQIARBU..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fdocker&docid=t3takvP-r5ywiM&w=280&h=280&q=docker%20image&ved=2ahUKEwiT9OTp8PyDAxWctGMGHWfUCWUQMygCegQIARBU"
+            src="https://www.google.com/imgres?imgurhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwNLcCUBaC99r3nN10jX1asJQgcmxVzbtkgg&usqp=CAU"
             alt="docker"
             height="40"
-            title="Postman"/>
+            title="Docker"/>
     </a>
 
    
