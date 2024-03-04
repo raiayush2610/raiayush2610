@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="https://ayushrai.netlify.app/" style="color: black; text-decoration: none;>Hi 👋, I'm Ayush</a></h1>
+<h1 align="center"><a href="https://ayushrai.netlify.app/" style="color: black; text-decoration: none;">Hi 👋, I'm Ayush</a></h1>
 <h3 align="center">A passionate Full Stack Wed Developer from  Varanasi in India</h3>
 
 - 🌱 I’m currently learning **Kubernates and Docker** - 💬 Ask me about **React,</br>
