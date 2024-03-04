@@ -1,15 +1,5 @@
-<style>
-  /* Define the style for the <a> tag */
-  a {
-    color: black; /* Change the color to black */
-    text-decoration: none; /* Remove default underline */
-  }
-  
-  /* Define style for hover state if you want to change color on hover */
-  a:hover {
-    color: gray; /* Change color on hover to gray */
-  }
-<h1 align="center"><a href="https://ayushrai.netlify.app/">Hi 👋, I'm Ayush</a></h1>
+
+<h1 align="center"><a href="https://ayushrai.netlify.app/" style="color: black; text-decoration: none;>Hi 👋, I'm Ayush</a></h1>
 <h3 align="center">A passionate Full Stack Wed Developer from  Varanasi in India</h3>
 
 - 🌱 I’m currently learning **Kubernates and Docker** - 💬 Ask me about **React,</br>
