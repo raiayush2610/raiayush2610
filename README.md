@@ -2,7 +2,7 @@
 # <p align="center"><a href="https://ayushrai.netlify.app/" >Hi 👋, I'm Ayush</a></p>
 <h3 align="center">A passionate Full Stack Wed Developer from  Varanasi in India</h3>
 
-- 🌱 I’m currently learning **Kubernates and Docker** - 💬 Ask me about **React,</br>
+- 🌱 I’m currently learning **Spring boot** - 💬 Ask me about **React,</br>
 Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
