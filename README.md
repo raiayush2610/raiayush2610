@@ -6,11 +6,9 @@
 Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 <p align="left>
     <a
-        href="https://www.linkedin.com/in/raiayush2610/](https://drive.google.com/file/d/19QcByrJ8iC2SRVjXo2H5J_j8WV38D2Jh/view?usp=sharing"
-        target="blank"><img
-        align="center"
-        src="https://drive.google.com/file/d/19QcByrJ8iC2SRVjXo2H5J_j8WV38D2Jh/view?usp=sharing"
-        />Resume</a>
+        href="https://drive.google.com/file/d/19QcByrJ8iC2SRVjXo2H5J_j8WV38D2Jh/view?usp=sharing"
+        target="blank"
+        Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
