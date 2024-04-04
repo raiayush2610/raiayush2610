@@ -20,7 +20,13 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
     <a href="https://leetcode.com/raiayush2610/" target="blank"><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-        alt="aryan_codex"
+        alt="raiayush2610"
+        height="30"
+        width="40"/></a>
+    <a href="https://github.com/raiayush26/" target="blank"><img
+        align="center"
+        src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg"
+        alt="raiayush2610"
         height="30"
         width="40"/></a>
        
@@ -34,6 +40,7 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏,  etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 Another github profile of mine working on this day is <a href="https://github.com/raiayush26/" target="blank"><img src="https://raw.githubusercontent.com/raiayush26/Icon/main/github.png" width =15 height=15></a>
 
 <br/> 
 </em>
@@ -121,7 +128,7 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img
-            src="https://www.google.com/imgres?imgurhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwNLcCUBaC99r3nN10jX1asJQgcmxVzbtkgg&usqp=CAU"
+            src="https://raw.githubusercontent.com/raiayush26/Icon/8ee6cc655190d484d400fe1cdc5e0da7db527d89/docker.svg"
             alt="docker"
             height="40"
             title="Docker"/>
