@@ -6,6 +6,7 @@
 Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 <p align="left>
   <a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
+  </p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
