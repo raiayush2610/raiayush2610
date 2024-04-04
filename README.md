@@ -5,10 +5,7 @@
 - 🌱 I’m currently learning **Spring boot** - 💬 Ask me about **React,</br>
 Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 <p align="left>
-    <a
-        href="https://drive.google.com/file/d/19QcByrJ8iC2SRVjXo2H5J_j8WV38D2Jh/view?usp=sharing"
-        target="blank"
-        Resume</a>
+  <a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
