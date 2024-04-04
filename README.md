@@ -1,5 +1,5 @@
 
-# <p align="center"><a href="https://ayushrai.netlify.app/" >Hi 👋, I'm Ayush</a></p>
+# <p align="center"><a href="https://ayushrai.netlify.app/" >Hi 👋, I'm Ayush Rai</a></p>
 <h3 align="center">A passionate Full Stack Wed Developer from  Varanasi in India</h3>
 
 - 🌱 I’m currently learning **Spring boot** - 💬 Ask me about **React,</br>
