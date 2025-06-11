@@ -39,7 +39,7 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 - 💼 I’ve completed my High school with PCM at [Delhi Public school,Kanpur]((https://www.dpskalyanpur.com/));
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏,  etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
-- 💬 Ask me about anything, I am happy to help, In case of phone no call me anytime at +918840099604
+- 💬 Ask me about anything, I am happy to help, In case of phone call me, free fell to contract on call 📞 +918840099604
 - 👨🏽‍💻 Another github profile of mine working on this day is <a href="https://github.com/raiayush26/" target="blank"><img src="https://raw.githubusercontent.com/raiayush26/Icon/main/github.png" width =15 height=15></a>
 
 <br/> 
